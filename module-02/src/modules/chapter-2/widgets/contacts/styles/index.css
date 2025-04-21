@@ -1,0 +1,33 @@
+.friends-list {
+  height: calc(100vh - 280px);
+  overflow-y: auto;
+}
+
+.friend-item {
+  transition: all 0.2s ease;
+}
+
+.hover-bg-light:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.friends-list {
+  height: calc(100vh - 280px);
+  overflow-y: auto;
+}
+
+.friend-item {
+  transition: all 0.2s ease;
+}
+
+.hover-bg-light:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
